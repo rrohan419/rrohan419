@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrohan419
+- 👋 Hi, I’m Rohan (@rrohan419)
 - 👀 I’m interested in Java & BlockChain.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java

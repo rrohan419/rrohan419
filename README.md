@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rohan (@rrohan419)
 - 👀 I’m interested in Java & BlockChain Technology.
-- 🌱 I’m currently completed my Java and learning Spring Framework and Angular Js
-- 💞️ I’m looking to collaborate on Java Projects
+- 🌱 Technology that I am currenty intrested in are java, spring boot, spring security,spring mvc, orm(object relational mapping),angular.
+- 🌱 very eager to learn new thing. 
+- 💞️ I’m looking to collaborate on spring, java , maven or angular Projects
 - 📫 How to reach me rrohan419@gmail.com
 
 <!---
